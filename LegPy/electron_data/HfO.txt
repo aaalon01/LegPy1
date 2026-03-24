@@ -1,7 +1,4 @@
-Kinetic    CSDA      
-Energy     Range     
-MeV        g/cm2     
-
+# Hf02 from NIST Database
  1.000E-02 6.243E-04 
  1.250E-02 8.870E-04 
  1.500E-02 1.187E-03 
